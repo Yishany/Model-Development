@@ -1,1 +1,3 @@
-# ML-Methods
+# Stats Models
+# ML Models
+# DL Models
